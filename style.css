@@ -374,7 +374,7 @@ footer {
     font-size: 0.85rem;
     padding: 10px 0px 5px 5px;
     width: 200px;
-    min-width: 0;
+    min-width: 200px;
     box-sizing: border-box;
   }
   .search-btn {
@@ -389,6 +389,7 @@ footer {
     font-size: 0.8rem;
     padding: 10px 0px 5px 5px;
     width: 180px;
+    min-width: 180px;
   }
   .search-btn {
     font-size: 0.9em;
@@ -401,7 +402,8 @@ footer {
   .search-box input[type="search"] {
     font-size: 0.75rem;
     padding: 10px 0px 5px 5px;
-    width: 100px;
+    width: 120px;
+    min-width: 120px;
   }
   .search-btn {
     font-size: 0.85em;

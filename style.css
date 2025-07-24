@@ -196,7 +196,7 @@ p {
 /* Elementos de la navbar */
 .navbar li {
   position: relative;
-  margin: 0 12px;
+  margin: 0 8px;
 }
 
 /* Estilo de los enlaces de la navbar */
@@ -218,7 +218,6 @@ p {
 .search-form {
   display: flex;
   align-items: center;
-  margin: 0px 5px 0px 10px;
 }
 
 /* Estilos para el input de búsqueda */

@@ -227,7 +227,7 @@ p {
 .search-form {
   display: flex;
   align-items: center;
-  margin: 0px 20px 0 25px;
+  margin: 0px 20px 0 100px;
 }
 
 /* Estilos para el input de búsqueda */
@@ -358,9 +358,9 @@ footer {
 }
 
 /* Adaptar barra de búsqueda a dispositivos móviles (10000px - 300px) */
-@media (max-width: 10000px) and (min-width: 375px) {
+@media (max-width: 10000px) and (min-width: 320px) {
   .search-form {
-    margin: 10px 0 10px 0;
+    margin: 10px 100px 10px 0;
     width: 100%;
     justify-content: center;
   }
